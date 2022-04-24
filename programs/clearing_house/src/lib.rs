@@ -29,7 +29,7 @@ mod user_initialization;
 #[cfg(feature = "mainnet-beta")]
 declare_id!("dammHkt7jmytvbS3nHTxQNEcP59aE57nxwV21YdqEDN");
 #[cfg(not(feature = "mainnet-beta"))]
-declare_id!("AsW7LnXB9UA1uec9wi9MctYTgTz7YH9snhxd16GsFaGX");
+declare_id!("DrifGDj9SKzBoj9mvKwnmAWQqye9i4JmRchUcHFf7C4B");
 
 #[program]
 pub mod clearing_house {
